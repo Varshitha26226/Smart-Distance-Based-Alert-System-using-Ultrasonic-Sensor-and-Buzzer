@@ -32,3 +32,8 @@ Varshitha P
 Final Year B.E. in Electronics and Communication  
 Kalpataru Institute of Technology, Tiptur  
 Passionate about sensor systems, automation, and ethical engineering
+
+# Live Simulation on Wokwi
+You can test the project directly in the Wokwi simulator:  
+[Click here to open the simulation](https://wokwi.com/projects/440168304536262657)
+
